@@ -30,3 +30,4 @@ C:\Users\ester\source\repos\SmartCity\FiapSmartCity\obj\Debug\netcoreapp2.1\Fiap
 C:\Users\ester\source\repos\SmartCity\FiapSmartCity\obj\Debug\netcoreapp2.1\FiapSmartCity.dll
 C:\Users\ester\source\repos\SmartCity\FiapSmartCity\obj\Debug\netcoreapp2.1\FiapSmartCity.pdb
 C:\Users\ester\source\repos\SmartCity\FiapSmartCity\obj\Debug\netcoreapp2.1\FiapSmartCity.csproj.CopyComplete
+C:\Users\ester\source\repos\SmartCity\FiapSmartCity\obj\Debug\netcoreapp2.1\Razor\Views\TipoProduto\Index.g.cshtml.cs
